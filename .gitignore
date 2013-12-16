@@ -1,0 +1,10 @@
+.DS_Store
+cache/cachefs/*
+!cache/cachefs/index.php
+cache/smarty/cache/*
+!cache/smarty/cache/index.php
+cache/smarty/compile/*
+!cache/smarty/compile/index.php
+cache/class_index.php
+cache/tcpdf/*
+!cache/tcpdf/index.php
